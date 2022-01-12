@@ -7,11 +7,11 @@ The project called FoxPlatformer is going to be a simple 2D Jump'n Run game whic
   - [x] Add expandible level selector:
     - [x] Be able to load a level
     - [x] Be able to progress and save progress (tested with dummy levels)
+  - [ ] Add scoreboard viewer
   - [ ] *Add settings menu:*
     - [ ] *Be able to reset progress*
     - [ ] *Be able to change screen resolution*
     - [ ] Be able to swap between fullscreen-mode and window-mode
-  - [ ] Add scoreboard viewer
 - [ ] **Levels**
   - [ ] Add scoreboard:
     - [ ] Add kill-points

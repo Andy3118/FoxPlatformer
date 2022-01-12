@@ -42,7 +42,7 @@ The project called FoxPlatformer is going to be a simple 2D Jump'n Run game whic
 - Added death area
 - Added doors (can use to teleport)
 - Added moveable box
-###### v0.2-dev - pre1 | First Sign of Live:
+###### v0.2-dev-pre1 | First Sign of Live:
 - Added Home Menu: Level Selector
 - Added first level (not finished yet)
 - Added a partially working spawn system for mice (enemy)

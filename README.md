@@ -4,12 +4,12 @@ The project called FoxPlatformer is going to be a simple 2D Jump'n Run game whic
 ## Plans for next releases:
 ###### v0.2-dev - First Sign of Live:
 - [ ] **Menu**:
-  - [x] *Add expandible level selector:*
-    - [x] *Be able to load a level*
-    - [x] *Be able to progress and save progress (tested with dummy levels)*
-  - [ ] Add settings menu:
-    - [ ] Be able to reset progress
-    - [ ] Be able to change screen resolution
+  - [x] Add expandible level selector:
+    - [x] Be able to load a level
+    - [x] Be able to progress and save progress (tested with dummy levels)
+  - [ ] *Add settings menu:*
+    - [ ] *Be able to reset progress*
+    - [ ] *Be able to change screen resolution*
     - [ ] Be able to swap between fullscreen-mode and window-mode
   - [ ] Add scoreboard viewer
 - [ ] **Levels**
@@ -17,8 +17,8 @@ The project called FoxPlatformer is going to be a simple 2D Jump'n Run game whic
     - [ ] Add kill-points
     - [ ] Add gem-counter
     - [ ] Add death-counter
-  - [ ] Add 3 level:
-    - [ ] Add 1st level
+  - [ ] *Add 3 level:*
+    - [ ] *Add 1st level*
     - [ ] Add 2nd level
     - [ ] Add 3rd level
 ###### v0.3-dev - The sound and light of live:
